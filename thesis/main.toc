@@ -1,0 +1,10 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.1}History of Tex}{5}{}%
+\contentsline {section}{\numberline {1.2}Latex}{5}{}%
+\contentsline {section}{\numberline {1.3}Benefits of Latex}{5}{}%
+\contentsline {chapter}{\numberline {2}Basics}{6}{}%
+\contentsline {section}{\numberline {2.1}Install}{6}{}%
+\contentsline {section}{\numberline {2.2}Choose editor}{6}{}%
+\contentsline {section}{\numberline {2.3}Online}{6}{}%
+\contentsline {chapter}{\numberline {3}Conclusion}{7}{}%
+\contentsline {chapter}{\numberline {A}Appendix}{8}{}%
