@@ -42,7 +42,7 @@
 
 # Image
 
-![alt text](book_cover.avif)
+![alt text](markdown.jpg)
 
 # Table
 
